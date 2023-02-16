@@ -43,3 +43,8 @@ Thumbs.db
 
 #Icon credits
 icons.txt
+
+# Firebase
+.firebase
+*-debug.log
+.runtimeconfig.json
